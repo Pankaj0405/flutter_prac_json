@@ -53,8 +53,7 @@ Copy code
 ]
 ## Acknowledgements
 
-- This project was inspired by the need to replicate the popular features of the Instagram app using Flutter and Firebase.
-- Thanks to the open-source community for providing libraries and resources that made this project possible.
+We would like to thank the contributors and open-source community for their support and valuable contributions to this project.
 
 ## License
 
